@@ -1,0 +1,5 @@
+ThatPokemonIsAlreadyFighting: "&7那只宝可梦已经在战斗了!"
+SkillIsEmpty: "&7出现了啦!空技能的精灵(已出现给精灵分配技能)"
+Unmovable: "&c对战中不可传送!"
+Message:
+  tips: "合体的宝可梦中,其中一只为绑定宝可梦,如果强制合体,另一只也会绑定,是否继续合体？请输入 是 后再次进行强制合体!"

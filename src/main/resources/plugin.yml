@@ -1,0 +1,10 @@
+name: FixPokeBug
+main: com.github.fixpokebug.fixpokebug.Main
+version: 1.1.0
+description: 一些修复
+authors:
+  - FullIdle
+  - SwagRee
+commands:
+  fixpokebug:
+    description: 丝袜和卦登的修复(好奇怪的两个名字)
